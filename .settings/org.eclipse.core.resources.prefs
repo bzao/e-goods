@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//e-goods-config/src/main/resources/bootstrap.properties=UTF-8
+encoding//e-goods-delivery/e-goods-delivery-core/src/main/resources/application.properties=UTF-8
+encoding//e-goods-order/e-goods-order-core/src/main/resources/bootstrap.properties=UTF-8
+encoding//e-goods-trade/e-goods-trade-core/src/main/resources/bootstrap.properties=UTF-8
+encoding//e-goods-user/e-goods-user-core/src/main/resources/bootstrap.properties=UTF-8
+encoding/<project>=UTF-8
